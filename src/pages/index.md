@@ -1,50 +1,44 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: We connect people to mentors
+image: /img/right.jpg
+heading: What are you missing?
+subheading: 'Find the right coach to reach your own goals, today.'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Mentorpass?
+  description: >-
+    We belive Mentors are great assets for professionals looking to develop
+    their careers. They help you find opportunities to stimulate your personal
+    and professional growth as they draw from their own experiences. It is also
+    beneficial to see how they became successful and understand their
+    perspective on professional development. They become your trusted advisor
+    and help guide and give you insights on instances you may not see yourself.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Mentorship makes a notable difference and builds a better, more knowledgeable
+  workforce, it advances careers. When experienced professionals choose to
+  mentor someone newer to the workforce, they can boost people who may not
+  otherwise have those opportunities and help level the playing field.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/collab.png
+      text: >-
+        Mentorship is a team sport. We belive that every personal win is a team
+        win. We trust eachother and value personal growth as a core value.
+    - image: /img/player.png
+      text: >-
+        We believe that having the best people is the key ingredient for long
+        term success. We focus on the highest quality talent and developing them
+        to become better than us.
+    - image: /img/leader.png
+      text: >-
+        We believe that everyone can be a leader and that true leadership is
+        earned through our actions, not given with our titles. And we support
+        the process of becoming a valued member of the community.
+    - image: /img/results.png
+      text: >-
+        We don’t sit and wait for things to happen, we make them happen. We
+        believe in setting clear goals, then executing relentlessly to achieve
+        results.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -68,3 +62,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
