@@ -46,20 +46,23 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: How Mentorpass works
+  description: >-
+    A membership with Mentorpass offers you access to a range of different
+    Mentors, coaches and activities rather than making you select just one. It's
+    a monthly rolling contract that can be cancelled at anytime with no
+    cancellation or membership fees involved. There's a range of different
+    membership plans available, so you can choose the monthly price and mentors
+    that fits your needs most. Through your employer, membership prices are
+    discounted, meaning you'll pay less to access the mentors in your plan.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: mentor
+    image: /img/mentor.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: mentoree
+    image: /img/mentoree.jpeg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: coaching
+    image: /img/coach.jpg
 ---
 
